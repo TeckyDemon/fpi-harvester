@@ -2,7 +2,19 @@
 
 All notable changes to this project will be documented in this file.
 
-## [0.0.4] - 2019-07-21
+## [1.0.3] - 2019-07-23
+
+### Added
+
+- `VERSION` file.
+
+### Changed
+
+##### [CHANGELOG.md](CHANGELOG.md)
+
+- Version.
+
+## [1.0.2] - 2019-07-21
 
 ### Fixed
 
@@ -14,7 +26,7 @@ All notable changes to this project will be documented in this file.
 
 - Typo.
 
-## [0.0.3] - 2019-07-21
+## [1.0.1] - 2019-07-21
 
 ### Added
 
@@ -28,7 +40,7 @@ All notable changes to this project will be documented in this file.
 
 - `Prerequisites` section.
 
-## [0.0.2] - 2019-07-05
+## [1.0.0] - 2019-07-05
 
 ### Added
 
@@ -37,7 +49,7 @@ All notable changes to this project will be documented in this file.
 - [README.md](README.md) file.
 - [requirements.txt](requirements.txt) file.
 
-## [0.0.1] - 2019-07-05
+## [1.0.0] - 2019-07-05
 
 ### Added
 
