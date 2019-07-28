@@ -118,7 +118,8 @@ git clone "https://github.com/DeBos99/fpi-harvester.git"
 
 ## Contact
 
-Discord: DeBos#3292
+* Discord: DeBos#3292
+* Reddit: [DeBos99](https://www.reddit.com/user/DeBos99)
 
 ## License
 
