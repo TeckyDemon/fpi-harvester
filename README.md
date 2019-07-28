@@ -99,14 +99,14 @@ git clone "https://github.com/DeBos99/fpi-harvester.git"
 
 ### Optional arguments
 
-| Argument                  | Description                                             | Default value               |
-| :------------------------ | :------------------------------------------------------ | :-------------------------- |
-| -h<br>--help              | Shows help message.                                     |                             |
-| -t T<br>--threads T       | Sets the number of threads to **T**.                    | 15                          |
-| -p PATH<br>--proxies PATH | Sets the path to the list with the proxies to **PATH**. | Proxies list from internet. |
-| -o PATH<br>--output PATH  | Sets the path of the output file to **PATH**.           | data.txt                    |
-| -v<br>--verbose           | Enables verbose mode.                                   | False.                      |
-| -d<br>--debug             | Enabled debug mode.                                     | False.                      |
+| Argument           | Description                     | Default value               |
+| :----------------- | :----- ------------------------ | :-------------------------- |
+| -h, --help         | Shows help message and exits.   |                             |
+| -t, --threads N    | Sets number of threads.         | 15                          |
+| -p, --proxies PATH | Sets path to file with proxies. | Proxies list from internet. |
+| -o, --output PATH  | Sets path to output file.       | data.txt                    |
+| -v, --verbose      | Enables verbose mode.           | False                       |
+| -d, --debug        | Enabled debug mode.             | False                       |
 
 ## Disclaimer
 
