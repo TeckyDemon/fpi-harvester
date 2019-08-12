@@ -1,8 +1,2 @@
-*
-!.gitignore
-!CHANGELOG.md
-!LICENSE
-!main.py
-!README.md
+*.txt
 !requirements.txt
-!VERSION
